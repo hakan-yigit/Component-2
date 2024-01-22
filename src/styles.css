@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  padding-left: 10px;
+}
+
+.title {
+  text-align: center;
+  font-size: 70px;
+}
+.photo {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 30px;
+  margin: 20px;
+}
+p {
+  padding: 5px;
+  margin-left: 13px;
+  font-weight: bold;
+  color: grey;
+}
